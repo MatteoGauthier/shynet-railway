@@ -10,6 +10,9 @@
 4. Add to the Shynet service the environment variable `ADMIN_EMAIL` with your email address.
 5. A new deployment will be triggered, make sure to check out the "Deploy Logs" and see the password for the admin user in the logs.
 
+[![Video tutorial](https://i3.ytimg.com/vi/q5i-b6VMTDY/maxresdefault.jpg)](https://www.youtube.com/watch?v=q5i-b6VMTDY)
+
+
 ## Overview
 
 Shynet is a privacy-friendly, cookie-free web analytics tool. It's open source and self-hosted, allowing you to retain ownership of your data. Shynet provides valuable visitor information such as page views, sessions, load times, bounce rates, referrers, locations, and device types. It supports multiple users and sites, and offers collaboration features. While ideal for personal projects and small to medium-sized websites, Shynet may not be suitable for ultra-high traffic sites and requires technical expertise to deploy and maintain.
